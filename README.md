@@ -1,3 +1,8 @@
+<h1 align="center">
+ <img src="_imagens/glass-logo-peq.jpg">
+ <img src="_imagens/glass-logo-med.jpg" height="49px">
+</h1>
+
 <h2 align="center">
   Projeto de site sobre o Google Glass. Desenvolvido seguindo o
   <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o" target="_blank">
