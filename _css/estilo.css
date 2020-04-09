@@ -152,6 +152,10 @@ article#noticia-principal h2 {
   margin: 10px 0px 10px 0px;
 }
 
+article#noticia-principal video {
+  margin-bottom: 15px;
+}
+
 header#cabecalho-artigo h1 {
   font-family: 'FonteLogo', sans-serif;
   font-size: 20pt;
@@ -236,6 +240,12 @@ aside#lateral h2 {
   font-size: 13pt;
   color: #ffffff;
   padding: 5px;
+  margin-bottom: 0;
+}
+
+aside#lateral video {
+  width: 350px;
+  margin-top: 0;
 }
 
 footer#rodape {
