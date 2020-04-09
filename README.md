@@ -1,6 +1,6 @@
 <h1 align="center">
- <img src="_imagens/glass-logo-peq.jpg">
- <img src="_imagens/glass-logo-med.jpg" height="49px">
+ <img src="site/_imagens/glass-logo-peq.jpg">
+ <img src="site/_imagens/glass-logo-med.jpg" height="49px">
 </h1>
 
 <h2 align="center">
