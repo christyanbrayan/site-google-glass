@@ -14,7 +14,7 @@
 <h3 align="center">
  <ul>
   <li>
-   Acesse-o <a href="" target="_blank"> aqui</a>, hospedado no GitHub Pages
+   Acesse-o <a href="https://christyanbrayan.github.io/site-google-glass" target="_blank"> aqui</a>, hospedado no GitHub Pages
   </li>
   <li>
    Baixe os dois pacotes no formato zip <a href="https://github.com/christyanbrayan/site-google-glass/tree/master/site/pacotes" target="_blank">aqui</a>
