@@ -7,18 +7,18 @@ div#tv-radio {
   background: url("../_imagens/radio-tv.png") no-repeat;
 }
 
-audio#musica {
+div#tv-radio audio#musica {
   display: block;
   position: relative;
   left: 575px;
-  top: 490px;
-  width: 300px;
+  top: 495px;
+  height: 40px;
 }
 
-video#filme {
+div#tv-radio video#filme {
   display: block;
   position: relative;
-  left: 86px;
-  top: 60px;
+  left: 88px;
+  top: 80px;
   width: 440px;
 }
