@@ -19,10 +19,10 @@
 1. Acesse-o [aqui](https://christyanbrayan.github.io/site-google-glass), hospedado com GitHub Pages.
 
 2. Baixe os dois pacotes usados no curso:
-   * No formato zip [aqui](https://github.com/christyanbrayan/site-google-glass/tree/master/site/pacotes);
+   * No formato zip [aqui](pacotes);
    * Ou dê um fork no repositório oficial disponibilizado pelo Guanabara [aqui](https://github.com/cursoemvideo/cursoemvideo-html5);
 
-3. O site foi desenvolvido procurando seguir à risca a [playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) do curso e a [interface](https://github.com/christyanbrayan/site-google-glass/tree/master/site/_interface) proposta, portanto:
+3. O site foi desenvolvido procurando seguir à risca a [playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) do curso e a [interface](interface) proposta, portanto:
 
    * Não é responsivo;
    * Há algumas tags que se tornaram obsoletas;
