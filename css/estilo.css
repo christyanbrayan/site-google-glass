@@ -275,3 +275,8 @@ footer#rodape p {
   font-style: italic;
   line-height: 30px;
 }
+
+footer img:hover {
+	box-shadow: 2px 2px 4px rgba(0,0,0,.4);
+	border-radius: 30px;
+}
