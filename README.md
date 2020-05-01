@@ -16,6 +16,10 @@
   O primeiro do <a href="https://cursoemvideo.com" target="_blank"> Curso em Vídeo </a>
 </h2>
 
+<p align>
+  <img src="print01.png">
+</p>
+
 1. Acesse-o [aqui](https://christyanbrayan.github.io/site-google-glass), hospedado com GitHub Pages.
 
 2. Baixe os dois pacotes usados no curso:
