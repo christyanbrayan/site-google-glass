@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="site/_imagens/glass-logo-peq.jpg">
-  <img src="site/_imagens/glass-logo-med.jpg" height="49px">
+ <img src="site/_imagens/glass-logo-peq.jpg">
+ <img src="site/_imagens/glass-logo-med.jpg" height="49px">
 </h1>
 
 <h2 align="center">
@@ -16,10 +16,6 @@
   O primeiro do <a href="https://cursoemvideo.com" target="_blank"> Curso em Vídeo </a>
 </h2>
 
-<p align>
-  <img src="print01.png">
-</p>
-
 1. Acesse-o [aqui](https://christyanbrayan.github.io/site-google-glass), hospedado com GitHub Pages.
 
 2. Baixe os dois pacotes usados no curso:
@@ -33,7 +29,7 @@
    * O site foi desenvolvido em uma janela de navegador minimizada, ou seja, pode ser que quando maximizada alguns elementos como o menu e o ícone de óculos fiquem em uma disposição diferente da esperada;
 
 <h5 align="center">
-  Licença <a href="https://github.com/christyanbrayan/site-google-glass/blob/master/LICENSE"> MIT </a>
-  <br>
-  &lt;/&gt; by <a href="https://github.com/christyanbrayan"> christyanbrayan </a>
+ Licença <a href="https://github.com/christyanbrayan/site-google-glass/blob/master/LICENSE"> MIT </a>
+ <br>
+ &lt;/&gt; by <a href="https://github.com/christyanbrayan"> christyanbrayan </a>
 </h5>
