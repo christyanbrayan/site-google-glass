@@ -73,7 +73,7 @@
               </p>
               <p>
                 <label for="cMail"> E-mail: </label>
-                <input type="email" name="tMail" id="cMail" size="20" maxlength="40">
+                <input type="email" name="tMail" id="cMail" size="20" maxlength="40" placeholder="Separe por vírgulas">
               </p>
               <fieldset id="sexo">
                 <legend> Sexo: </legend>
@@ -90,7 +90,7 @@
           </fieldset>
 
           <fieldset id="endereco">
-            <legend> Endereço do Usuário </legend>
+            <legend> Endereço </legend>
                 <p>
                   <label for="cRua"> Logradouro: </label>
                   <input type="text" name="tRua" id="cRua" size="13" maxlength="80" placeholder="Rua, Av, Trav, ...">
@@ -103,8 +103,8 @@
                   <label for="cEst"> Estado: </label>
                   <select name="tEst" id="cEst">
                     <optgroup label="Região Sudeste">
-                      <option value="RJ"> Rio de Janeiro </option>
-                      <option value="SP" selected> São Paulo </option>
+                      <option value="RJ" selected> Rio de Janeiro </option>
+                      <option value="SP"> São Paulo </option>
                       <option value="MG"> Minas Gerais </option>
                     </optgroup>
                     <optgroup label="Região Sul">
@@ -116,7 +116,7 @@
                 </p>
                 <p>
                   <label for="cCid"> Cidade: </label>
-                  <input type="text" name="tCid" id="cCid" maxlength="40" size="20" placeholder="Sua Cidade" list="cidades">
+                  <input type="text" name="tCid" id="cCid" maxlength="40" size="20" placeholder="Sua cidade" list="cidades">
                 </p>
                 <datalist id="cidades">
                     <option value="Rio de Janeiro"></option>
@@ -127,14 +127,14 @@
           </fieldset>
 
           <fieldset id="mensagem">
-            <legend> Mensagem do Usuário </legend>
+            <legend> Mensagem </legend>
                 <p>
                   <label for="cUrg"> Grau de Urgência: </label>
                   Mín <input type="range" name="tUrg" id="cUrg" min="0" max="10" step="2"> Máx
                 </p>
                 <p>
                   <label for="cMsg"> Mensagem: </label>
-                  <textarea name="tMsg" id="cMsg" rows="5" cols="35" placeholder="Deixe aqui a sua mensagem"></textarea>
+                  <textarea name="tMsg" id="cMsg" rows="5" cols="35" placeholder="Sua mensagem..."></textarea>
                 </p>
           </fieldset>
 
