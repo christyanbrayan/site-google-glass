@@ -26,11 +26,11 @@
    * No formato zip [aqui](pacotes);
    * Ou dê um fork no repositório oficial disponibilizado pelo Guanabara [aqui](https://github.com/cursoemvideo/cursoemvideo-html5);
 
-3. O site foi desenvolvido procurando seguir à risca a [playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) do curso e a [interface](interface) proposta, portanto:
+3. O site foi desenvolvido seguindo a [playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) do curso e a [interface](interface) proposta, portanto:
 
    * Não é responsivo;
    * Há algumas tags que se tornaram obsoletas;
-   * O site foi desenvolvido em uma janela de navegador minimizada, ou seja, pode ser que quando maximizada alguns elementos como o menu e o ícone de óculos fiquem em uma disposição diferente da esperada;
+   * Durante o curso o site foi desenvolvido em uma janela de navegador minimizada, ou seja, pode ser que quando maximizada alguns elementos como o menu e o ícone de óculos fiquem em uma disposição diferente da esperada;
 
 <h5 align="center">
  Licença <a href="https://github.com/christyanbrayan/site-google-glass/blob/master/LICENSE"> MIT </a>
