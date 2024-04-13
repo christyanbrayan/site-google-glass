@@ -16,7 +16,7 @@
   O primeiro do <a href="https://cursoemvideo.com" target="_blank"> Curso em Vídeo </a>
 </h2>
 
-<p align>
+<p>
   <img src="print01.png">
 </p>
 
