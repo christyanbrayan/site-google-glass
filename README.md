@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="site/_imagens/glass-logo-peq.jpg">
+ <img src="site/_imagens/glass-logo-peq.png">
  <img src="site/_imagens/glass-logo-med.jpg" height="49px">
 </h1>
 
